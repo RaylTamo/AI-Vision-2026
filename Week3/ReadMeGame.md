@@ -3,20 +3,16 @@
 Claude link:
 
 Game ROOM Slasher (Inspired by DOOM SLAYER)
-
 https://claude.ai/share/eeb7f9d0-2895-424c-b7b9-219228919f9e
 
 Prompt:
-
 dengan menggunakan html dan css dan js.
-
 buat game DOOM yang lama untuk saya. 
-
 fps monster shoter game. buat survival mode je
 
 
-Rumusan
 
+Rumusan
 Hari ini saya belajar tentang: Penggunaan AI yang sebenar yang beretika
 
 Perkara yang saya paling faham ialah: Ai itu hanya pembantu bukan pengganti
