@@ -1,4 +1,4 @@
-<img width="1562" height="1172" alt="image" src="https://github.com/user-attachments/assets/f68da096-aef0-44ff-84b2-0fb3c1b59532" /><img width="1562" height="1172" alt="image" src="https://github.com/user-attachments/assets/1d2cfeeb-844f-4b1f-be79-542d4cd571f7" />
+<img width="1562" height="1172" alt="image" src="https://github.com/user-attachments/assets/f68da096-aef0-44ff-84b2-0fb3c1b59532" />
 
 Claude link:
 Game ROOM Slasher (Inspired by DOOM SLAYER)
